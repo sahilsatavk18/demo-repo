@@ -1,2 +1,2 @@
 # demo-repo
-just a trial
+just a trial!
